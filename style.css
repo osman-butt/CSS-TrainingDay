@@ -1,0 +1,60 @@
+body {
+  background-color: red;
+}
+
+header {
+  background-color: grey;
+}
+
+section#selectors {
+  background-color: darkorange;
+}
+
+#selectors.codebox {
+  background-color: blue;
+}
+
+section#selectors.codebox {
+  background-color: lime;
+}
+
+#about {
+  background-color: greenyellow;
+}
+
+#boxmodel,
+#units {
+  background-color: violet;
+}
+
+section.codebox {
+  background-color: teal;
+}
+
+nav ul {
+  list-style-type: none;
+}
+
+nav li {
+  background-color: black;
+}
+
+nav > li {
+  color: white;
+}
+
+section .codebox {
+  background-color: red;
+}
+
+.codebox dd {
+  color: green;
+}
+
+.codebox dd {
+  color: red;
+}
+dd {
+  color: orange;
+  font-weight: bold;
+}
