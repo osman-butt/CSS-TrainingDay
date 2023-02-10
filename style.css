@@ -99,6 +99,6 @@ nav ul {
 }
 
 #selectors dl {
-  /* border: 2px solid red; */
+  border: 2px solid red;
   border-radius: 1em;
 }
